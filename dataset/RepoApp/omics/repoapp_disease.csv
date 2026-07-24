@@ -1,0 +1,1182 @@
+﻿ID,Disease,Name
+0,C0000810,"Abortion, Incomplete"
+1,C0001126,"Acidosis, Renal Tubular"
+2,C0001139,Acinetobacter infectious disease
+3,C0001144,Acne Vulgaris
+4,C0001206,Acromegaly
+5,C0001207,Hypersomatotropic gigantism
+6,C0001261,Actinomycosis
+7,C0001264,"Actinomycosis, Cervicofacial"
+8,C0001403,Addison Disease
+9,C0001622,Adrenocortical Hyperfunction
+10,C0001627,"Adrenal Hyperplasia, Congenital"
+11,C0001815,Primary Myelofibrosis
+12,C0001957,Alcohol Withdrawal Delirium
+13,C0001973,Alcoholism
+14,C0002170,Alopecia
+15,C0002351,Altitude Sickness
+16,C0002390,"Alveolitis, Extrinsic Allergic"
+17,C0002395,Alzheimer Disease
+18,C0002438,Amebiasis
+19,C0002453,Amenorrhea
+20,C0002726,Amyloidosis
+21,C0002736,Amyotrophic Lateral Sclerosis
+22,C0002792,anaphylaxis
+23,C0002831,Ancylostomiasis
+24,C0002874,"Anemia, Aplastic"
+25,C0002880,"Anemia, Hemolytic, Autoimmune"
+26,C0002888,"Anemia, Megaloblastic"
+27,C0002962,Angina Pectoris
+28,C0002963,"Angina Pectoris, Variant"
+29,C0002986,Fabry Disease
+30,C0002994,Angioedema
+31,C0003175,Anthrax
+32,C0003177,Cutaneous anthrax
+33,C0003467,Anxiety
+34,C0003469,Anxiety Disorders
+35,C0003492,Aortic Coarctation
+36,C0003615,Appendicitis
+37,C0003850,Arteriosclerosis
+38,C0003862,Arthralgia
+39,C0003868,"Arthritis, Gouty"
+40,C0003872,"Arthritis, Psoriatic"
+41,C0003873,"Arthritis, Rheumatoid"
+42,C0003950,Ascariasis
+43,C0003969,Ascorbic Acid Deficiency
+44,C0004030,Aspergillosis
+45,C0004096,Asthma
+46,C0004238,Atrial Fibrillation
+47,C0004239,Atrial Flutter
+48,C0004352,Autistic Disorder
+49,C0004364,Autoimmune Diseases
+50,C0004604,Back Pain
+51,C0004626,"Pneumonia, Bacterial"
+52,C0004771,Bartonella Infections
+53,C0004943,Behcet Syndrome
+54,C0004945,Bejel
+55,C0005138,C0004945
+56,C0005283,beta Thalassemia
+57,C0005424,Disease or Syndrome
+58,C0005586,Bipolar Disorder
+59,C0005587,"Depression, Bipolar"
+60,C0005683,Urinary bladder stone (disorder)
+61,C0005684,Cancer of Bladder
+62,C0005697,"Urinary Bladder, Neurogenic"
+63,C0005699,Blast Crisis
+64,C0005716,Blastomycosis
+65,C0005743,Blepharoconjunctivitis
+66,C0006060,Boutonneuse Fever
+67,C0006105,Brain Abscess
+68,C0006114,"Edema, Cerebral"
+69,C0006118,Brain Neoplasms
+70,C0006181,Brill-Zinsser Disease
+71,C0006266,Bronchial Spasm
+72,C0006267,Bronchiectasis
+73,C0006277,Bronchitis
+74,C0006309,Brucellosis
+75,C0006325,Bruxism
+76,C0006413,Burkitt Lymphoma
+77,C0006434,Burns
+78,C0006444,Bursitis
+79,C0006840,Candidiasis
+80,C0006846,"Candidiasis, Cutaneous"
+81,C0006849,"Candidiasis, Oral"
+82,C0006852,"Vaginitis, Monilial"
+83,C0007102,Cancer of Colon
+84,C0007115,Malignant neoplasm of thyroid
+85,C0007117,Basal Cell Cancer
+86,C0007131,"Carcinoma, Non-Small-Cell Lung"
+87,C0007134,"Carcinoma, Renal Cell"
+88,C0007137,"Carcinoma, Squamous Cell"
+89,C0007138,"Carcinoma, Transitional Cell"
+90,C0007194,"Cardiomyopathy, Hypertrophic"
+91,C0007780,Cerebral Embolism
+92,C0007820,Cerebrovascular Disorders
+93,C0007847,Malignant Tumor of Cervix
+94,C0007947,Chancroid
+95,C0008049,Chickenpox
+96,C0008149,Chlamydia Infections
+97,C0008311,Cholangitis
+98,C0008312,"Biliary Cholangitides, Primary"
+99,C0008325,Cholecystitis
+100,C0008350,Cholelithiasis
+101,C0008354,Cholera
+102,C0008370,Cholestasis
+103,C0008526,Choroiditis
+104,C0008582,Chromoblastomycosis
+105,C0008677,"Bronchitis, Chronic"
+106,C0009088,Cluster Headache
+107,C0009186,Coccidioidomycosis
+108,C0009324,"Colitis, Ulcerative"
+109,C0009443,Common Cold
+110,C0009663,Condylomata Acuminata
+111,C0009766,"Conjunctivitis, Allergic"
+112,C0009768,"Conjunctivitis, Bacterial"
+113,C0009769,"Conjunctivitis, Giant Papillary"
+114,C0009770,"Conjunctivitis, Inclusion"
+115,C0009773,Vernal conjunctivitis
+116,C0009806,Constipation
+117,C0010032,Corneal Abrasions
+118,C0010043,Corneal Ulcer
+119,C0010200,Cough
+120,C0010232,Cowpox
+121,C0010308,Congenital Hypothyroidism
+122,C0010346,Crohn Disease
+123,C0010414,Cryptococcus neoformans Infections
+124,C0010417,Cryptorchidism
+125,C0010418,Cryptosporidiosis
+126,C0010543,Cyclitis
+127,C0010674,Cystic Fibrosis
+128,C0010691,Cystinuria
+129,C0010692,Cystitis
+130,C0010823,Cytomegalovirus Infections
+131,C0010930,Dacryocystitis
+132,C0011268,Senile Dementia
+133,C0011581,Depressive Disorder
+134,C0011606,"Dermatitis, Exfoliative"
+135,C0011608,Dermatitis Herpetiformis
+136,C0011615,"Dermatitis, Atopic"
+137,C0011616,"Dermatitis, Contact"
+138,C0011630,Dermatomycoses
+139,C0011633,Dermatomyositis
+140,C0011644,Dermatosclerosis
+141,C0011854,"Diabetes Mellitus, Type 1"
+142,C0011860,"Diabetes Mellitus, Type 2"
+143,C0011881,Diabetic Nephropathies
+144,C0011882,Diabetic Neuropathies
+145,C0011974,Diaper Rash
+146,C0011991,Diarrhea
+147,C0012546,Diphtheria
+148,C0012734,Disruptive Behavior Disorder
+149,C0013238,Dry Eye Syndromes
+150,C0013264,"Muscular Dystrophy, Duchenne"
+151,C0013274,"Ductus Arteriosus, Patent"
+152,C0013295,Duodenal Ulcer
+153,C0013369,Dysentery
+154,C0013371,Shigella Infection
+155,C0013390,Dysmenorrhea
+156,C0013395,Dyspepsia
+157,C0013404,Dyspnea
+158,C0013428,Dysuria
+159,C0013595,Eczema
+160,C0013604,Edema
+161,C0013882,Elephantiasis
+162,C0013922,Embolism
+163,C0014013,"Empyema, Pleural"
+164,C0014121,"Endocarditis, Bacterial"
+165,C0014175,Endometriosis
+166,C0014179,Endometritis
+167,C0014347,Enterobacteriaceae Infections
+168,C0014356,Enterocolitis
+169,C0014358,"Enterocolitis, Pseudomembranous"
+170,C0014488,Elbow Tendinopathy
+171,C0014544,Epilepsy
+172,C0014547,"Epilepsies, Partial"
+173,C0014549,"Epilepsy, Tonic-Clonic"
+174,C0014550,"Epilepsies, Myoclonic"
+175,C0014553,"Epilepsy, Absence"
+176,C0014733,Erysipelas
+177,C0014742,Erythema Multiforme
+178,C0014752,Erythrasma
+179,C0014836,Escherichia coli Infections
+180,C0014869,"Esophagitis, Peptic"
+181,C0015230,Exanthema
+182,C0015333,Radiation Exposure
+183,C0015371,Extrapyramidal Disorders
+184,C0015397,Eye Diseases
+185,C0015652,Fascioliasis
+186,C0015967,Fever
+187,C0016034,Breast Fibrocystic Disease
+188,C0016053,Fibromyalgia
+189,C0016204,Flatulence
+190,C0016436,Folliculitis
+191,C0016867,Furunculosis
+192,C0017152,Gastritis
+193,C0017168,Gastroesophageal Reflux
+194,C0017205,Gaucher Disease
+195,C0017418,Genital chancre
+196,C0017536,Giardiasis
+197,C0017574,Gingivitis
+198,C0017601,Glaucoma
+199,C0017605,"Glaucoma, Angle-Closure"
+200,C0017612,"Glaucoma, Open-Angle"
+201,C0018021,Goiter
+202,C0018081,Gonorrhea
+203,C0018099,Gout
+204,C0018133,Graft vs Host Disease
+205,C0018190,Granuloma Inguinale
+206,C0018213,Graves Disease
+207,C0018621,"Rhinitis, Allergic, Seasonal"
+208,C0018790,Heart Arrest
+209,C0018801,Heart Failure
+210,C0018802,"Heart Failure, Congestive"
+211,C0018834,Heartburn
+212,C0018916,Hemangioma
+213,C0019112,Hemorrhoids
+214,C0019147,"Comas, Hepatic"
+215,C0019151,Hepatic Encephalopathy
+216,C0019202,Hepatolenticular Degeneration
+217,C0019243,"Angioedemas, Hereditary"
+218,C0019342,Herpes Genitalis
+219,C0019345,Herpes Labialis
+220,C0019348,Herpes Simplex
+221,C0019357,"Keratitis, Herpetic"
+222,C0019360,Herpes Zoster
+223,C0019562,Von Hippel-Lindau Syndrome
+224,C0019655,Histoplasmosis
+225,C0019693,HIV Infections
+226,C0019829,Hodgkin Disease
+227,C0019917,Hordeolum
+228,C0020428,Hyperaldosteronism
+229,C0020437,Hypercalcemia
+230,C0020443,Hypercholesterolemia
+231,C0020458,Hyperhidrosis
+232,C0020459,Hyperinsulinism
+233,C0020461,Hyperkalemia
+234,C0020473,Hyperlipidemias
+235,C0020474,"Hyperlipidemia, Familial Combined"
+236,C0020479,Hyperlipoproteinemia Type III
+237,C0020501,"Hyperoxaluria, Primary"
+238,C0020502,Hyperparathyroidism
+239,C0020503,"Hyperparathyroidism, Secondary"
+240,C0020514,Hyperprolactinemia
+241,C0020538,Hypertension
+242,C0020542,"Hypertension, Pulmonary"
+243,C0020550,Hyperthyroidism
+244,C0020557,Hypertriglyceridemia
+245,C0020594,Hypoactive Sexual Desire Disorder
+246,C0020598,Hypocalcemia
+247,C0020621,Hypokalemia
+248,C0020625,Hyponatremia
+249,C0020626,Hypoparathyroidism
+250,C0020635,Hypopituitarism
+251,C0020649,Hypotension
+252,C0020651,"Hypotension, Orthostatic"
+253,C0020676,Hypothyroidism
+254,C0020683,Hypovolemic Shock
+255,C0021092,Impacted wax
+256,C0021099,Impetigo
+257,C0021141,Inappropriate ADH Syndrome
+258,C0021355,Swimmer's ear
+259,C0021361,Female infertility
+260,C0021390,Inflammatory Bowel Diseases
+261,C0021400,"Influenza, Human"
+262,C0021603,Sleep Initiation and Maintenance Disorders
+263,C0021670,Insulinoma
+264,C0021775,Intermittent Claudication
+265,C0022073,Iridocyclitis
+266,C0022081,Iritis
+267,C0022104,Irritable Bowel Syndrome
+268,C0022548,Keloid
+269,C0022568,Keratitis
+270,C0022570,"Keratitis, Dendritic"
+271,C0022573,Keratoconjunctivitis
+272,C0022575,Keratoconjunctivitis Sicca
+273,C0022577,"Keratoconjunctivitis, Vernal"
+274,C0022602,"Keratosis, Actinic"
+275,C0022729,Klebsiella Infections
+276,C0022735,Klinefelter Syndrome
+277,C0022951,Lactose Intolerance
+278,C0022972,Lambert-Eaton Myasthenic Syndrome
+279,C0023052,Laryngeal Edema
+280,C0023241,Legionnaires' Disease
+281,C0023281,Leishmaniasis
+282,C0023283,"Leishmaniasis, Cutaneous"
+283,C0023290,"Leishmaniasis, Visceral"
+284,C0023343,Leprosy
+285,C0023418,Leukemia
+286,C0023434,"Leukemia, Lymphocytic, Chronic, B-Cell"
+287,C0023440,"Leukemia, Erythroblastic, Acute"
+288,C0023443,"Leukemia, Hairy Cell"
+289,C0023449,Acute lymphocytic leukaemia
+290,C0023461,"Leukemia, Mast-Cell"
+291,C0023465,"Leukemia, Monocytic, Acute"
+292,C0023467,"Leukemia, Myeloid, Acute"
+293,C0023473,"Myeloid Leukemia, Chronic / Chronic myeloid leukemia"
+294,C0023474,"Leukemia, Myeloid, Chronic-Phase"
+295,C0023479,"Leukemia, Myelomonocytic, Acute"
+296,C0023480,"Leukemia, Myelomonocytic, Chronic"
+297,C0023487,"Leukemia, Promyelocytic, Acute"
+298,C0023646,Lichen Planus
+299,C0023827,Liposarcoma
+300,C0023860,Listeriosis
+301,C0023885,Liver Abscess
+302,C0023886,"Liver Abscess, Amebic"
+303,C0024110,Lung Abscess
+304,C0024115,Lung Diseases
+305,C0024117,"Pulmonary Disease, Chronic Obstructive"
+306,C0024138,"Lupus Erythematosus, Discoid"
+307,C0024143,Lupus Nephritis
+308,C0024198,Lyme Disease
+309,C0024214,Lymphangiectasis
+310,C0024221,Lymphangioma
+311,C0024286,Lymphogranuloma Venereum
+312,C0024299,Lymphoma
+313,C0024301,"Lymphoma, Follicular"
+314,C0024305,"Lymphoma, Non-Hodgkin"
+315,C0024419,Waldenstrom Macroglobulinemia
+316,C0024530,Malaria
+317,C0024535,"Malaria, Falciparum"
+318,C0024536,Quartan malaria
+319,C0024537,"Malaria, Vivax"
+320,C0024586,Malignant Carcinoid Syndrome
+321,C0024588,Malignant Essential Hypertension
+322,C0024591,Malignant Hyperthermia
+323,C0024623,Gastric Cancer
+324,C0025202,Melanoma
+325,C0025218,Chloasmas
+326,C0025281,Meniere Disease
+327,C0025289,Meningitis
+328,C0025293,"Meningitis, Listeria"
+329,C0025294,"Meningitis, Meningococcal"
+330,C0025295,"Meningitis, Pneumococcal"
+331,C0025323,Menorrhagia
+332,C0025874,Metrorrhagia
+333,C0026603,Motion Sickness
+334,C0026718,Mucormycosis
+335,C0026764,Multiple Myeloma
+336,C0026769,Multiple Sclerosis
+337,C0026838,Muscle Spasticity
+338,C0026847,Spinal Muscular Atrophy
+339,C0026857,Musculoskeletal Diseases
+340,C0026896,Myasthenia Gravis
+341,C0026946,Mycoses
+342,C0026948,Mycosis Fungoides
+343,C0026961,Mydriasis
+344,C0026987,MYELOFIBROSIS
+345,C0027022,Myeloproliferative Disorders
+346,C0027051,Myocardial Infarction
+347,C0027145,Myxedema
+348,C0027404,Narcolepsy
+349,C0027424,Congestion of nose
+350,C0027497,Nausea
+351,C0027498,Vomiting and Nausea
+352,C0027662,Multiple Endocrine Neoplasia
+353,C0027708,Wilms Tumor
+354,C0027726,Nephrotic Syndrome
+355,C0027819,Neuroblastoma
+356,C0027831,Neurofibromatosis 1
+357,C0027927,Neurosyphilis
+358,C0028043,"Dependence, Nicotine"
+359,C0028242,Nocardia Infections
+360,C0028326,Noonan Syndrome
+361,C0028734,Nocturia
+362,C0028754,Obesity
+363,C0028768,Obsessive-Compulsive Disorder
+364,C0028840,Ocular Hypertension
+365,C0029001,Onchocerciasis
+366,C0029076,Ophthalmia neonatorum
+367,C0029077,"Ophthalmia, Sympathetic"
+368,C0029104,Opioid withdrawal
+369,C0029106,Opisthorchiasis
+370,C0029151,Uses oral contraception
+371,C0029291,Psittacosis
+372,C0029401,Osteitis Deformans
+373,C0029408,Osteoarthritis
+374,C0029438,Massive Osteolyses
+375,C0029442,OM - osteomalacia
+376,C0029443,Osteomyelitis
+377,C0029456,Osteoporosis
+378,C0029458,"Osteoporosis, Postmenopausal"
+379,C0029878,Otitis Externa
+380,C0030193,Pain
+381,C0030201,Postoperative Pain
+382,C0030305,Pancreatitis
+383,C0030319,Panic Disorder
+384,C0030446,Paralytic Ileus
+385,C0030528,Paratyphoid Fever
+386,C0030567,Parkinson Disease
+387,C0030568,"Parkinson Disease, Postencephalitic"
+388,C0030578,Paronychia
+389,C0030590,"Supraventricular Tachycardia, Paroxysmal"
+390,C0030636,Pasteurella Infections
+391,C0030757,Pediculosis capitis
+392,C0030758,Pediculosis corporis
+393,C0030759,Crabs
+394,C0030783,Pellagra
+395,C0030785,Pelvic abscess
+396,C0030805,"Pemphigoid, Bullous"
+397,C0030807,Pemphigus
+398,C0030809,Pemphigus Vulgaris
+399,C0030848,Penile Induration
+400,C0030920,Peptic Ulcer
+401,C0031069,Familial Mediterranean Fever
+402,C0031099,Periodontitis
+403,C0031154,Peritonitis
+404,C0031190,Persistent Fetal Circulation Syndrome
+405,C0031350,Pharyngitis
+406,C0031511,Pheochromocytoma
+407,C0031572,"Phobia, Social"
+408,C0031946,Pinta
+409,C0032019,Pituitary Neoplasms
+410,C0032024,Pityriasis
+411,C0032064,Plague
+412,C0032269,Pneumococcal Infections
+413,C0032285,Pneumonia
+414,C0032290,"Pneumonia, Aspiration"
+415,C0032302,"Pneumonia, Mycoplasma"
+416,C0032308,"Pneumonia, Staphylococcal"
+417,C0032463,Polycythemia Vera
+418,C0032533,Polymyalgia Rheumatica
+419,C0032617,Polyuria
+420,C0032768,"Neuralgia, Postherpetic"
+421,C0032797,Postpartum Hemorrhage
+422,C0032897,Prader-Willi Syndrome
+423,C0033038,Premature Ejaculation
+424,C0033246,Proctitis
+425,C0033578,Prostatic Neoplasms
+426,C0033581,Prostatitis
+427,C0033774,Pruritus
+428,C0033775,Pruritus Ani
+429,C0033777,Pruritus of genital organs
+430,C0033845,Pseudotumor Cerebri
+431,C0033860,Psoriasis
+432,C0033893,Tension-Type Headache
+433,C0033975,Psychotic Disorders
+434,C0034012,"Puberty, Delayed"
+435,C0034013,"Puberty, Precocious"
+436,C0034063,Pulmonary Edema
+437,C0034065,Pulmonary Embolism
+438,C0034067,Pulmonary Emphysema
+439,C0034069,Pulmonary Fibrosis
+440,C0034186,Pyelonephritis
+441,C0034362,Q Fever
+442,C0034686,Rat-Bite Fever
+443,C0034734,Raynaud Disease
+444,C0034886,Rectal Pain
+445,C0035021,Relapsing Fever
+446,C0035086,"Osteodystrophies, Renal"
+447,C0035220,"Respiratory Distress Syndrome, Newborn"
+448,C0035235,Respiratory Syncytial Virus Infections
+449,C0035243,Respiratory Tract Infections
+450,C0035258,Restless Legs Syndrome
+451,C0035335,Retinoblastoma
+452,C0035435,Rheumatism
+453,C0035436,Rheumatic Fever
+454,C0035439,Rheumatic Heart Disease
+455,C0035455,Rhinitis
+456,C0035457,"Rhinitis, Allergic, Perennial"
+457,C0035460,"Rhinitis, Vasomotor"
+458,C0035468,Rhinoscleroma
+459,C0035579,Rickets
+460,C0035585,Rickettsia Infections
+461,C0035597,Rickettsia akari Infection
+462,C0035793,Rocky Mountain Spotted Fever
+463,C0035854,Rosacea
+464,C0036117,Salmonella Infections
+465,C0036130,Salpingitis
+466,C0036202,Sarcoidosis
+467,C0036220,"Sarcoma, Kaposi"
+468,C0036262,Scabies
+469,C0036271,Scalp Dermatoses
+470,C0036285,Scarlet Fever
+471,C0036323,Schistosomiasis
+472,C0036341,Schizophrenia
+473,C0036421,"Scleroderma, Systemic"
+474,C0036472,Scrub Typhus
+475,C0036508,"Dermatitis, Seborrheic"
+476,C0036830,Serum Sickness
+477,C0036980,"Shock, Cardiogenic"
+478,C0036992,Short Bowel Syndrome
+479,C0037036,Sialorrhea
+480,C0037195,Sinus headache
+481,C0037199,Sinusitis
+482,C0037274,Skin Diseases
+483,C0037354,Smallpox
+484,C0037383,Sneezing
+485,C0037769,"Spasms, Infantile"
+486,C0038013,"Spondylitis, Ankylosing"
+487,C0038157,Staphylococcal enterocolitis
+488,C0038160,Staphylococcal Infections
+489,C0038166,Staphylococcal Skin Infections
+490,C0038220,Status Epilepticus
+491,C0038325,Stevens-Johnson Syndrome
+492,C0038358,Stomach Ulcer
+493,C0038363,"Stomatitis, Aphthous"
+494,C0038395,Streptococcal Infections
+495,C0038436,"Stress Disorders, Post-Traumatic"
+496,C0038437,Female urinary stress incontinence
+497,C0038454,Stroke
+498,C0038463,Strongyloidiasis
+499,C0039103,Synovitis
+500,C0039128,Syphilis
+501,C0039131,"Syphilis, Congenital"
+502,C0039133,"Syphilis, Latent"
+503,C0039240,"Tachycardia, Supraventricular"
+504,C0039483,Giant Cell Arteritis
+505,C0039503,Tendinitis
+506,C0039520,Tenosynovitis
+507,C0039614,Tetanus
+508,C0039621,Tetany
+509,C0039685,Tetralogy of Fallot
+510,C0039841,Thiamine Deficiency
+511,C0040021,Thromboangiitis Obliterans
+512,C0040034,Thrombocytopenia
+513,C0040038,Thromboembolism
+514,C0040053,Thrombosis
+515,C0040127,Thyroid Crisis
+516,C0040147,Thyroiditis
+517,C0040250,Tinea Capitis
+518,C0040252,Tinea Corporis
+519,C0040259,Tinea Pedis
+520,C0040261,Onychomycosis
+521,C0040262,Tinea Versicolor
+522,C0040425,Tonsillitis
+523,C0040460,Toothache
+524,C0040517,Tourette Syndrome
+525,C0040553,Toxocariasis
+526,C0040558,Toxoplasmosis
+527,C0040560,"Toxoplasmosis, Congenital"
+528,C0040592,Trachoma
+529,C0040896,Trichinellosis
+530,C0040921,Trichomonas Infections
+531,C0040954,Trichuriasis
+532,C0040997,Trigeminal Neuralgia
+533,C0041228,"Trypanosomiasis, African"
+534,C0041234,Chagas Disease
+535,C0041318,"Tuberculosis, Meningeal"
+536,C0041321,"Tuberculosis, Miliary"
+537,C0041327,"Tuberculosis, Pulmonary"
+538,C0041341,Tuberous Sclerosis
+539,C0041343,Tubo-ovarian abscess
+540,C0041351,Tularemia
+541,C0041466,Typhoid Fever
+542,C0041472,"Typhus, Endemic Flea-Borne"
+543,C0041473,"Typhus, Epidemic Louse-Borne"
+544,C0041648,Infection by Uncinaria
+545,C0041909,Upper Gastrointestinal Hemorrhage
+546,C0041912,"Respiratory Infection, Upper"
+547,C0042024,Urinary Incontinence
+548,C0042029,Urinary Tract Infections
+549,C0042109,Urticaria
+550,C0042133,"Fibroid, Uterine"
+551,C0042135,Uterine Inertia
+552,C0042164,Uveitis
+553,C0042165,"Uveitis, Anterior"
+554,C0042345,Varicose Veins
+555,C0042373,Vascular Diseases
+556,C0042376,Vascular Headaches
+557,C0042485,Venous Insufficiency
+558,C0042487,Venous Thrombosis
+559,C0042510,Ventricular Fibrillation
+560,C0042548,Plantar warts
+561,C0042571,Vertigo
+562,C0042842,Vitamin A Deficiency
+563,C0042847,Vitamin B 12 Deficiency
+564,C0042870,Vitamin D Deficiency
+565,C0042875,Vitamin E Deficiency
+566,C0042900,Vitiligo
+567,C0042963,Vomiting
+568,C0042998,Vulvovaginitis
+569,C0043037,Verrucous lesions
+570,C0043144,Wheezings
+571,C0043250,Wounds
+572,C0043352,Xerostomia
+573,C0043388,Yaws
+574,C0043515,Zollinger-Ellison Syndrome
+575,C0079773,"Lymphoma, T-Cell, Cutaneous"
+576,C0079774,"Lymphoma, T-Cell, Peripheral"
+577,C0080203,Tachyarrhythmia
+578,C0085074,Granuloma Annulare
+579,C0085096,Peripheral Vascular Diseases
+580,C0085159,Seasonal Affective Disorder
+581,C0085166,"Vaginosis, Bacterial"
+582,C0085280,Alagille Syndrome
+583,C0085394,Serratia Infections
+584,C0085404,POEMS Syndrome
+585,C0085413,"Polycystic Kidney, Autosomal Dominant"
+586,C0085423,Gram-Negative Bacterial Infections
+587,C0085436,"Meningitis, Cryptococcal"
+588,C0085437,"Meningitis, Bacterial"
+589,C0085438,"Meningitis, Fungal"
+590,C0085580,Essential Hypertension
+591,C0085605,Liver Failure
+592,C0085606,Urinary urgency
+593,C0085610,Sinus Bradycardia
+594,C0085612,Ventricular Arrhythmia
+595,C0085631,Agitated
+596,C0085649,"Edema, peripheral"
+597,C0085652,Pyoderma Gangrenosum
+598,C0085656,Nummular eczema
+599,C0085682,Hypophosphatemia
+600,C0085695,Chronic gastritis
+601,C0085697,Chronic pyelonephritis
+602,C0086227,Enterobiasis
+603,C0149523,Acute cystitis
+604,C0149526,Allergic urticaria
+605,C0149704,Gingivostomatitis (disorder)
+606,C0149725,Lower Respiratory Tract Infection
+607,C0149871,Deep Vein Thromboses
+608,C0149893,Secondary glaucoma
+609,C0149911,Humoral hypercalcemia of malignancy (disorder)
+610,C0149922,"Neurodermatitis, Circumscribed"
+611,C0149925,Small Cell Lung Carcinoma
+612,C0149931,Migraine Disorders
+613,C0149948,Acute otitis externa
+614,C0149966,Gonorrhea of pharynx
+615,C0149985,"Syphilis, secondary"
+616,C0150045,"Urinary Incontinence, Urge"
+617,C0150055,Chronic Pain
+618,C0151467,Addisonian Crisis
+619,C0151482,Megaloblastic anemia due to folate deficiency
+620,C0151636,Ventricular Premature Complexes
+621,C0151714,Hypermagnesaemia
+622,C0151721,"Hypogonadism, Male"
+623,C0151723,Hypomagnesaemia
+624,C0151874,Fungal infection of lung
+625,C0151907,Discolouration of skin
+626,C0151908,Dry Skin
+627,C0151940,Hypocalcemic tetany
+628,C0151970,Ulcer of oesophagus
+629,C0152020,Gastroparesis
+630,C0152030,Skin irritation
+631,C0152072,Malaria by Plasmodium ovale
+632,C0152081,Pustular psoriasis (disorder)
+633,C0152253,Posterior synechiae
+634,C0152486,Salmonella Septicemia
+635,C0152499,Acute amebiasis
+636,C0152515,Intestinal infection caused by Pseudomonas
+637,C0152516,Septic enteritis
+638,C0152936,Black Death
+639,C0152945,Gastrointestinal anthrax
+640,C0152964,"[X]Streptococcal septicaemia, unspecified"
+641,C0152965,Staphylococcal septicemia (disorder)
+642,C0152967,Anaerobic septicemia (disorder)
+643,C0152973,Septicemia due to Serratia (disorder)
+644,C0153027,Herpes zoster with keratoconjunctivitis
+645,C0153188,"Syphilis, tertiary"
+646,C0153193,Acute gonococcal epididymo-orchitis
+647,C0153195,Acute gonococcal cervicitis
+648,C0153196,Acute gonococcal endometritis
+649,C0153216,Gonococcal infection of joint
+650,C0153225,Gonococcal meningitis
+651,C0153227,Gonococcal endocarditis
+652,C0153240,Latent yaws
+653,C0153246,tinea manus
+654,C0153252,Systemic candidiasis
+655,C0153254,Candidal endocarditis
+656,C0153256,Candidal meningitis
+657,C0153289,Echinococcus granulosus infection of liver
+658,C0153290,Echinococcus granulosus infection of lung
+659,C0153303,Mixed intestinal infection caused by Cestoda and/or Trematoda and/or Phylum Nematoda
+660,C0153425,Malignant Tumor of Small Intestine
+661,C0153467,Malignant neoplasm of peritoneum
+662,C0153594,Testicular Cancer
+663,C0153601,Penile Cancer
+664,C0153633,Brain Malignant Neoplasm
+665,C0153685,Metastatic malignant neoplasm to kidney
+666,C0154246,"Urea Cycle Disorders, Inborn"
+667,C0154301,Acquired thrombocytopenia
+668,C0154639,Streptococcal meningitis
+669,C0154640,Staphylococcal meningitis
+670,C0154731,Glossopharyngeal Neuralgia
+671,C0155213,Hypertrichosis of eyelid
+672,C0155440,Chronic tubotympanic suppurative otitis media
+673,C0155749,Arterial embolus and thrombosis
+674,C0155804,Acute maxillary sinusitis
+675,C0155814,Acute epiglottitis
+676,C0155860,Pneumonia caused by Pseudomonas
+677,C0155862,"Pneumonia, Pneumococcal"
+678,C0155866,Inhalation anthrax
+679,C0155877,Allergic asthma (disorder)
+680,C0155880,Asthma due to internal immunological process
+681,C0155919,Acute pulmonary edema
+682,C0156393,Atrophic vulvitis
+683,C0156543,Abortion
+684,C0156677,Eclampsia in pregnancy
+685,C0157749,Infectious arthropathy
+686,C0158371,Acute osteomyelitis (disorder)
+687,C0158996,Anemia of Prematurity
+688,C0162316,"Anemia, Iron-Deficiency"
+689,C0162565,"Porphyria, Acute Intermittent"
+690,C0162568,"Protoporphyria, Erythropoietic"
+691,C0162627,"Skin Diseases, Bacterial"
+692,C0162671,MELAS Syndrome
+693,C0175167,Acneiform Eruptions
+694,C0178416,"Anemia, Hypoplastic"
+695,C0205944,Epithelioid Sarcomas
+696,C0206062,"Lung Diseases, Interstitial"
+697,C0206178,Cytomegalovirus Retinitis
+698,C0206525,"Tuberculosis, Drug-Resistant"
+699,C0206682,"Adenocarcinoma, Follicular"
+700,C0220756,"Niemann-Pick Disease, Type C"
+701,C0220987,Hereditary Orotic Aciduria
+702,C0220994,Hyperammonemia
+703,C0221013,"Mastocytosis, Systemic"
+704,C0221154,"Hypertension, paroxysmal"
+705,C0221392,Atrophic Vaginitis
+706,C0221406,Pituitary ACTH Hypersecretion
+707,C0221765,Chronic schizophrenia
+708,C0231403,Severe anxiety (panic) (finding)
+709,C0231528,Myalgia
+710,C0232495,Lower Abdominal Pain
+711,C0232849,Bladder Pain
+712,C0232940,Secondary physiologic amenorrhoea
+713,C0233494,Tense Feeling
+714,C0233523,"Behavior, Antisocial"
+715,C0233794,Memory Deficits
+716,C0234925,Oily skin
+717,C0234974,"Partial Seizures, Simple"
+718,C0234978,Primary motor cortex frontal lobe epilepsy
+719,C0235063,Respiratory Depression
+720,C0235238,Cycloplegia
+721,C0235267,Red eye
+722,C0235480,"Atrial Fibrillation, Paroxysmal"
+723,C0235950,Zinc deficiency
+724,C0236663,Alcohol withdrawal
+725,C0236780,"Bipolar I disorder, most recent episode mixed"
+726,C0236830,Neuroleptic-induced parkinsonism
+727,C0237963,Poisoning caused by acetaminophen
+728,C0238052,"Xanthomatosis, Cerebrotendinous"
+729,C0238080,Cyanide poisoning
+730,C0238111,Lennox Gastaut Syndrome
+731,C0238122,Fallopian Tube Cancer
+732,C0238198,Gastrointestinal Stromal Tumors
+733,C0238298,Myxedema coma
+734,C0238462,"Thyroid cancer, medullary"
+735,C0238463,"Thyroid Cancer, Papillary"
+736,C0239295,Candidiasis of esophagus
+737,C0241310,Suprapubic pain
+738,C0241961,Angiomyolipoma of kidney
+739,C0242339,Dyslipidemias
+740,C0242350,Erectile Dysfunction
+741,C0242379,Lung Cancer
+742,C0242383,"Macular Degeneration, Age-Related"
+743,C0242422,Parkinsonian Disorders
+744,C0242429,Sore Throats
+745,C0242459,Simple Pulmonary Eosinophilia
+746,C0242488,Acute Lung Injury
+747,C0242855,Pulmonary Atresia
+748,C0243001,Abdominal Abscess
+749,C0243002,Tricuspid Atresia
+750,C0259799,Superficial punctate keratitis
+751,C0261439,Accidental poisoning by methyl alcohol
+752,C0261486,Accidental poisoning caused by lead and its compounds and fumes (disorder)
+753,C0262399,Bursitis of shoulder
+754,C0263283,Contact dermatitis caused by urushiol from Pacific poison oak
+755,C0264716,Chronic heart failure (disorder)
+756,C0265110,Cerebral Vasospasm
+757,C0267055,Erosive oesophagitis
+758,C0267167,Nonulcer dyspepsia
+759,C0267176,Gastroparesis due to diabetes mellitus (disorder)
+760,C0267390,Chronic ulcerative rectosigmoiditis
+761,C0267509,Chronic idiopathic constipation
+762,C0267919,Primary cholangitis
+763,C0268108,Chronic arthritis due to gout
+764,C0268119,Molybdenum cofactor deficiency
+765,C0268381,Immunoglobulin Light-chain Amyloidosis
+766,C0268407,Stiff heart syndrome
+767,C0268490,Type I Tyrosinemias
+768,C0268634,Disorders of fatty-acid metabolism
+769,C0268821,Lower urinary tract infectious disease
+770,C0269050,Endomyometritis
+771,C0269398,Miscarriage with sepsis
+772,C0269661,Vomiting as reason for care in pregnancy
+773,C0270327,Nocturnal Enuresis
+774,C0270425,Bipolar disorder in remission
+775,C0270549,Generalized Anxiety Disorder
+776,C0270846,"Seizure, Atonic"
+777,C0271093,Stargardt Disease
+778,C0271152,Ciliary block glaucoma
+779,C0271429,AOM - Acute otitis media
+780,C0271578,Female hypogonadism syndrome
+781,C0271623,"Hypogonadism, Hypogonadotropic"
+782,C0271852,Hypercalcemia due to hyperthyroidism
+783,C0271932,Anemia of chronic renal failure
+784,C0272286,Thrombocytopenia due to platelet alloimmunization
+785,C0272293,Chronic idiopathic thrombocytopenic purpura
+786,C0275550,Acute bacterial peritonitis (disorder)
+787,C0275555,Acute bacterial epiglottitis
+788,C0275556,Acute bacterial sinusitis
+789,C0275566,Pulmonary actinomycosis
+790,C0275652,Acute gonococcal urethritis
+791,C0275665,Gonorrhea of rectum
+792,C0275761,Pneumococcal pharyngitis
+793,C0275793,Staphylococcal tonsillitis
+794,C0275804,Streptococcal tonsillitis
+795,C0275842,Latent early syphilis
+796,C0275959,Acute tuberculosis
+797,C0275979,Infection by Campylobacter fetus
+798,C0275982,Campylobacter Enteritis
+799,C0276026,Haemophilus influenzae pneumonia
+800,C0276064,Sepsis caused by Bacteroides
+801,C0276075,Infection caused by Pseudomonas aeruginosa
+802,C0276085,Ecthyma gangrenosum
+803,C0276088,Septicaemic colibacillosis
+804,C0276089,Pneumonia caused by Escherichia coli
+805,C0276180,"Mpox, Monkeypox"
+806,C0276226,"Encephalitis, Herpes Simplex"
+807,C0276228,Herpes simplex keratoconjunctivitis
+808,C0276500,Human immunodeficiency virus I infection
+809,C0276587,Nutritional deficiency with AIDS (acquired immunodeficiency syndrome)
+810,C0276653,Invasive Pulmonary Aspergillosis
+811,C0276688,Pulmonary cryptococcosis
+812,C0276725,Disseminated sporotrichosis
+813,C0276754,Onychomycosis caused by Trichophyton rubrum
+814,C0276755,Onychomycosis caused by Trichophyton mentagrophytes
+815,C0276758,Fusariosis
+816,C0277528,Traveler's diarrhea
+817,C0278139,Moderate pain (finding)
+818,C0278140,Severe pain (finding)
+819,C0278678,Metastatic Renal Cell Cancer
+820,C0278987,Metastatic non-small cell lung cancer
+821,C0278996,Cancer of Head and Neck
+822,C0279543,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+823,C0280803,Primary Central Nervous System Lymphoma
+824,C0281361,Adenocarcinoma of pancreas
+825,C0282193,Iron Overload
+826,C0282488,"Cystitis, Interstitial"
+827,C0311375,Arsenic Poisoning
+828,C0311389,"Urethritis, NOS"
+829,C0334102,Lymphangiomatosis
+830,C0334579,"Astrocytoma, Anaplastic"
+831,C0338395,"Meningitis, Escherichia coli"
+832,C0338396,Proteus meningitis
+833,C0338437,Neurocysticercosis
+834,C0338873,"Bipolar affective disorder, current episode manic"
+835,C0338908,Mixed anxiety and depressive disorder
+836,C0339170,Fungal conjunctivitis
+837,C0339293,Corneal Perforation
+838,C0339498,Central retinal vein occlusion with macular edema
+839,C0339507,
+840,C0339932,Acute Moraxella catarrhalis bronchitis
+841,C0339933,Acute bacterial bronchitis
+842,C0339959,Chlamydial Pneumonia
+843,C0339968,Neonatal pneumonia
+844,C0340354,Q fever endocarditis
+845,C0340968,Deficiency of pyruvate kinase
+846,C0341503,Bacterial Peritonitis
+847,C0341823,Epithelial tumor of ovary
+848,C0341950,Severe pre-eclampsia
+849,C0342257,Diabetes Complications
+850,C0342527,Deficiency of testosterone biosynthesis
+851,C0342634,Neonatal hypocalcemia
+852,C0342882,Familial hypercholesterolemia - heterozygous
+853,C0342907,Sitosterolemia
+854,C0342938,Pantothenic acid deficiency
+855,C0342985,Superficial bacterial infection of skin
+856,C0343065,dermographism
+857,C0343337,Pseudomonas gastrointestinal tract infection
+858,C0343378,Helicobacter pylori-associated gastritis
+859,C0343402,Bacterial infection caused by Klebsiella pneumoniae
+860,C0343467,Erythema nodosum leprosum (disorder)
+861,C0343500,Gas gangrene caused by clostridium perfringens
+862,C0343532,Streptococcal toxic shock syndrome
+863,C0343833,Tertiary lesion of yaws
+864,C0343886,Candidiasis of intestine
+865,C0345468,Transplanted organ rejection
+866,C0345904,Cancer of Liver
+867,C0346161,Malignant epithelial tumour of ovary
+868,C0346421,Chronic Eosinophilic Leukemia
+869,C0346976,Metastatic malignant neoplasm to pancreas
+870,C0346993,Secondary malignant neoplasm of breast
+871,C0347176,Carcinoma in situ of fallopian tube
+872,C0347950,Asthma attack NOS
+873,C0348868,Listerial endocarditis
+874,C0348898,Irritable bowel syndrome with diarrhea
+875,C0349009,Candidal septicemia (disorder)
+876,C0349464,Korsakoff Syndrome
+877,C0349506,Photosensitization
+878,C0349543,Glioblastoma multiforme of brain
+879,C0349649,Pulmonary lymphangioleiomyomatosis
+880,C0349650,Non-tuberculous mycobacterial pneumonia
+881,C0349734,Female pelvic cellulitis
+882,C0349774,Diverticulitis of gastrointestinal tract
+883,C0349790,Asthma attack
+884,C0376358,Prostate Cancer
+885,C0392164,Pulmonary Cystic Fibrosis
+886,C0392171,Flu-Like Symptoms
+887,C0392445,Necrobiosis Lipoidica Diabeticorum
+888,C0392618,Postoperative infection
+889,C0393735,Headache Disorders
+890,C0393760,Initial Insomnia
+891,C0393764,Excessive daytime sleepiness - normal night sleep
+892,C0395818,Malignant otitis externa caused by Pseudomonas aeruginosa
+893,C0396072,Laryngeal papillomatosis
+894,C0400877,Postoperative ileus
+895,C0400968,Liver transplant rejection
+896,C0401149,"Constipation, chronic"
+897,C0401160,Chemotherapy-induced nausea and vomiting
+898,C0403643,Overactive bladder
+899,C0405580,Adrenal Insufficiency
+900,C0406317,Chronic small plaque psoriasis
+901,C0406326,Psoriasis of scalp
+902,C0406486,Ocular Rosacea
+903,C0412850,Poisoning caused by opiate analgesic drug (disorder)
+904,C0421162,Meningococcus carrier
+905,C0423234,Punctate keratopathy
+906,C0423673,Pain in spine
+907,C0423775,Pityriasis simplex
+908,C0424620,Excess subcutaneous fat
+909,C0426639,Incomplete passage of stool
+910,C0428974,"Arrhythmias, supraventricular"
+911,C0456103,Neonatal Sepsis
+912,C0456107,Neonatal meningitis
+913,C0458960,Peripheral neuropathic pain
+914,C0472713,Anemia of renal disease
+915,C0473527,Hypoalphalipoproteinemias
+916,C0474368,Labor Pain
+917,C0475811,Disorder of keratinization
+918,C0494475,"Seizure, Tonic-Clonic"
+919,C0497327,Dementia
+920,C0497496,Prostatitis/seminal vesiculitis
+921,C0519030,Pneumonia caused by Klebsiella pneumoniae
+922,C0520577,Urethral atrophy
+923,C0520676,Premenstrual Dysphoric Disorder
+924,C0520679,"Sleep Apnea, Obstructive"
+925,C0520767,Staphylococcal endocarditis
+926,C0520775,Klebsiella cystitis
+927,C0520777,Chlamydial pelvic inflammatory disease
+928,C0520909,Postoperative Nausea and Vomiting
+929,C0524662,Opioid Dependences
+930,C0524688,Pneumonic Plague
+931,C0524702,Pulmonary Thromboembolisms
+932,C0524909,"Hepatitis B, Chronic"
+933,C0524910,"Hepatitis C, Chronic"
+934,C0542269,Non-Q wave myocardial infarction (disorder)
+935,C0543822,Atherosclerotic occlusive disease
+936,C0546999,Cutaneous larva migrans
+937,C0549315,Hydatid mole
+938,C0549398,Meibomitis
+939,C0553580,"Sarcoma, Ewing"
+940,C0554628,Group A Streptococcal Infections
+941,C0555198,Malignant Glioma
+942,C0558595,Uric acid nephrolithiasis
+943,C0572583,Antimetabolite overdose
+944,C0577690,Proteus septicemia (disorder)
+945,C0577708,Urinary tract infection caused by Escherichia coli
+946,C0577709,Proteus urinary tract infection
+947,C0578870,Chronic Spontaneous Urticarias
+948,C0580182,Hyperhidrosis of axilla
+949,C0581358,Gastric spasm
+950,C0581377,Decompensated cardiac failure
+951,C0585442,Osteosarcoma of Bone
+952,C0588233,Sepsis caused by enterococcus
+953,C0600040,"Cystitis, Chronic Interstitial"
+954,C0600041,Infection of bladder
+955,C0600142,Hot Flashes
+956,C0600177,Low Cardiac Output Syndrome
+957,C0677607,Hashimoto Disease
+958,C0677659,Gastro-oesophageal reflux disease with oesophagitis
+959,C0678222,Breast Carcinomas
+960,C0684256,Bacterial sepsis
+961,C0686068,Metastatic malignant neoplasm to stomach
+962,C0686347,Tardive Dyskinesia
+963,C0686510,Carcinoma in situ of adrenal cortex
+964,C0687148,Mineral deficiency
+965,C0694549,Community-Acquired Pneumonia
+966,C0700053,"Hypertrophic Subaortic Stenosis, Idiopathic"
+967,C0700345,"Candidiasis, Vulvovaginal"
+968,C0700359,Organophosphate Poisoning
+969,C0701163,Adrenogenital disorder (disorder)
+970,C0729524,Bacterial urinary infection
+971,C0729586,Infective otitis media
+972,C0729587,Infective blepharitis
+973,C0729772,Infective laryngitis
+974,C0730607,Severe chronic obstructive pulmonary disease
+975,C0740394,Hyperuricemia
+976,C0740441,Acute diarrhea
+977,C0740447,Diabetic peripheral neuropathy
+978,C0741292,Paroxysmal atrial flutter
+979,C0742964,Bacterial cystitis
+980,C0745136,Hypertensive Emergency
+981,C0745138,Hypertensive Urgency
+982,C0748052,Erythrodermic psoriasis
+983,C0750952,Biliary Tract Cancers
+984,C0750979,"Brain Neoplasms, Malignant, Primary"
+985,C0751122,"Epilepsy, Myoclonic, Infantile, Severe"
+986,C0751362,Narcolepsy-Cataplexy Syndrome
+987,C0751434,"Phenylketonuria, Classical"
+988,C0751436,"Hyperphenylalaninemia, Non Phenylketonuric"
+989,C0751753,Carbamoyl-Phosphate Synthase I Deficiency Disease
+990,C0751967,"Multiple Sclerosis, Relapsing-Remitting"
+991,C0752347,Lewy Body Disease
+992,C0849907,Itching of ear
+993,C0850149,Dry Cough
+994,C0853193,Bipolar I disorder
+995,C0854211,Bacterial keratitis
+996,C0854215,Bacterial meningitis caused by gram-negative bacteria
+997,C0854328,Infection caused by anaerobic bacteria
+998,C0854467,Bone marrow suppression
+999,C0855095,Small lymphocytic lymphoma
+1000,C0855112,Refractory Diffuse Large B-Cell Lymphoma
+1001,C0856695,Acute exacerbation of chronic bronchitis
+1002,C0860594,"Malignant melanoma, metastatic"
+1003,C0862889,Superficial basal cell carcinoma
+1004,C0867389,Chronic graft-versus-host disease
+1005,C0870082,Excessive cornification
+1006,C0877445,Candidemia
+1007,C0878675,Erdheim-Chester Disease
+1008,C0917796,"Optic Atrophy, Hereditary, Leber"
+1009,C0917798,Cerebral Ischemias
+1010,C0917799,Hypersomnias
+1011,C0917801,Insomnia
+1012,C0936215,Vitamin B 6 Deficiency
+1013,C0948008,Ischemic Stroke
+1014,C0948089,Acute Coronary Syndrome
+1015,C0948204,Infection caused by Citrobacter
+1016,C0949083,"Pneumonia, Hospital Acquired"
+1017,C1096562,Peptostreptococcus infection
+1018,C1112209,Intraabdominal Infections
+1019,C1112486,Aggressive Systemic Mastocytoses
+1020,C1112709,NGU - Non-gonococcal urethritis
+1021,C1135868,Gestational Trophoblastic Neoplasm
+1022,C1140680,Ovarian Cancer
+1023,C1142132,Carnitine deficiency (disorder)
+1024,C1260880,Rhinorrhea
+1025,C1260899,"Anemia, Diamond-Blackfan"
+1026,C1260911,Pasteurella multocida infectious disease
+1027,C1260915,Late latent syphilis
+1028,C1260917,Proteus pneumonia
+1029,C1261256,Pelvic inflammatory disease caused by Metamycoplasma hominis
+1030,C1261473,Sarcoma
+1031,C1262019,Uremic pruritus
+1032,C1262117,Fungal keratitis
+1033,C1263758,Female genital tract infection
+1034,C1263846,Attention Deficit Disorder with Hyperactivity
+1035,C1269683,Major Depressive Disorder
+1036,C1272826,FIGO stage finding for vulvar carcinoma
+1037,C1273489,Asthma night-time symptoms
+1038,C1274321,Recurrent herpes simplex labialis
+1039,C1274323,Recurrent genital herpes simplex
+1040,C1274355,Streptococcal infection of skin
+1041,C1274469,Onychomycosis of fingernails
+1042,C1274470,Onychomycosis of toenails
+1043,C1275684,Meibomian Gland Dysfunction
+1044,C1275687,HZV (herpes zoster virus) keratitis
+1045,C1276801,Erysipeloid
+1046,C1278797,Postnatal infection
+1047,C1278807,Chlamydial urethritis
+1048,C1282496,Metastasis from malignant tumour of prostate
+1049,C1282500,Metastasis from malignant tumor of colon (disorder)
+1050,C1282509,Metastasis from malignant tumor of thyroid (disorder)
+1051,C1288351,Malignant Neoplasm (Morphology)
+1052,C1290159,Subacute bursitis
+1053,C1292758,Precursor T-Cell Lymphoblastic Lymphoma
+1054,C1299579,Early cirrhosis
+1055,C1303258,Acute ST segment elevation myocardial infarction (disorder)
+1056,C1306632,Primary malignant neoplasm of gastrointestinal tract
+1057,C1306835,Periarthritis of shoulder
+1058,C1318543,Giant Cell Tumor of Tendon Sheath
+1059,C1318559,Fusospirochetal pharyngitis (disorder)
+1060,C1318973,Staphylococcus aureus Infection
+1061,C1320183,Infection caused by Enterococcus
+1062,C1320547,Allergic otitis externa
+1063,C1321482,Behçet disease affecting oral mucosa
+1064,C1328252,Mucocutaneous leishmaniasis
+1065,C1328504,Hormone refractory prostate cancer
+1066,C1367654,Marginal Zone B-Cell Lymphoma
+1067,C1384589,Tinea Cruris
+1068,C1384606,Dyspareunia
+1069,C1444173,Arthropod bite wound
+1070,C1510471,"Deficiencies, Vitamin"
+1071,C1527336,Sjogren's Syndrome
+1072,C1527407,Eosinophilic Pneumonias
+1073,C1535478,Granulomatosis infantisepticum (disorder)
+1074,C1541061,Malignant neoplasm of common bile duct (& [carcinoma])
+1075,C1561643,Chronic Kidney Diseases
+1076,C1561828,Anemia in chronic kidney disease
+1077,C1562029,Hormone receptor positive malignant neoplasm of breast
+1078,C1562430,Muscle spasticity of spinal origin
+1079,C1562585,"Leprosy, Multibacillary"
+1080,C1563054,Dapsone resistant leprosy
+1081,C1619727,Decompensated cirrhosis of liver
+1082,C1623040,Breastfeeding mother
+1083,C1632842,Complicated appendicitis
+1084,C1692886,"Arthritides, Bacterial"
+1085,C1704231,Metastatic Malignant Neoplasm in the Leptomeninges
+1086,C1704431,Electrolyte disorders
+1087,C1719906,Meningitis caused by Klebsiella aerogenes
+1088,C1720135,Gastrointestinal infection caused by Klebsiella aerogenes
+1089,C1720498,Toxoplasmosis associated with acquired immunodeficiency syndrome (disorder)
+1090,C1720538,Persistent erythema of skin
+1091,C1739363,"Hypertrophies, Prostatic"
+1092,C1761609,Aspiration Pneumonitis
+1093,C1800706,Idiopathic Pulmonary Fibrosis
+1094,C1827301,Extensively Drug-Resistant Tuberculosis
+1095,C1828079,Dementia associated with Parkinson's Disease
+1096,C1847835,VITILIGO
+1097,C1857854,Proopiomelanocortin Deficiency
+1098,C1868889,Irritable bowel syndrome characterized by constipation
+1099,C1955629,Human Herpesvirus 6 encephalitis
+1100,C1959799,Calcium renal calculus
+1101,C1960398,HER2-positive carcinoma of breast
+1102,C1960639,At increased risk of venous thromboembolus
+1103,C1960675,Long-chain fatty acid transport deficiency
+1104,C1960925,Epidermal growth factor receptor positive non-small cell lung cancer
+1105,C1961099,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+1106,C1997322,Chlamydia trachomatis infection of genital structure
+1107,C1997351,Left ventricular cardiac dysfunction
+1108,C1997614,Thromboembolism of vein
+1109,C1997728,Osteomyelitis caused by Staphylococcus aureus
+1110,C2062473,Acute pyelonephritis caused by bacterium
+1111,C2215257,Acute Postoperative Pain
+1112,C2219717,menstrual periods stopped for over 6 months
+1113,C2239176,"Carcinoma, Hepatocellular"
+1114,C2242472,Bone infection
+1115,C2316304,Human epidermal growth factor 2 negative carcinoma of breast
+1116,C2316460,Pseudobulbar Affect
+1117,C2347126,Microscopic Polyarteritis
+1118,C2349261,Relapse multiple myeloma
+1119,C2349530,Pneumonia caused by Staphylococcus aureus
+1120,C2349994,tinea barbae
+1121,C2363973,Chronic Thromboembolic Pulmonary Hypertension
+1122,C2607914,"Rhinitis, Allergic"
+1123,C2711180,Influenza caused by Influenza A virus
+1124,C2711256,Ischemic priapism
+1125,C2711653,Epilepsy characterized by intractable complex partial seizures
+1126,C2721580,Breakthrough cancer pain
+1127,C2733595,Pulmonary Mycobacterium avium complex infection
+1128,C2887084,Sepsis caused by Streptococcus pneumoniae (disorder)
+1129,C2887088,Sepsis caused by Staphylococcus aureus
+1130,C2887091,Severe sepsis with acute organ dysfunction caused by Haemophilus influenzae
+1131,C2887096,Sepsis caused by Pseudomonas
+1132,C2887097,Severe sepsis with acute organ dysfunction caused by Serratia
+1133,C2894027,Post traumatic osteoarthritis
+1134,C2931187,"Cystinosis, Nephropathic"
+1135,C2936781,Thomsen Generalized Myotonia
+1136,C2937222,UC - Ulcerative colitis confined to rectum
+1137,C2960008,
+1138,C2973725,Pulmonary Arterial Hypertension
+1139,C2981142,Refractory anemia
+1140,C3163805,Carcinoma of female breast
+1141,C3163829,Severe sepsis with acute organ dysfunction caused by Gram-negative bacteria
+1142,C3163939,Carcinoma of thyroid
+1143,C3203356,Prothrombin deficiency
+1144,C3495801,Granulomatosis with Polyangiitis
+1145,C3661921,Perioperative hypertension
+1146,C3661933,Dyslipidemia due to type 2 diabetes mellitus
+1147,C3662038,Chronic kidney disease due to type 2 diabetes mellitus
+1148,C3697010,Ulcerative colitis in remission
+1149,C3698411,Asymptomatic left ventricular systolic dysfunction
+1150,C3805232,Post-polycythemia vera myelofibrosis
+1151,C3805233,Myelofibrosis due to and following essential thrombocythaemia
+1152,C3854116,Lipodystrophy due to HIV and antiretroviral therapy
+1153,C3872606,Recurrent candidiasis of vagina
+1154,C3874358,Therapeutic opioid induced constipation
+1155,C3875321,Inflammatory dermatosis (disorder)
+1156,C3887486,Interstitial fibrosis
+1157,C3888018,Congenital Hyperinsulinism
+1158,C4038730,Asthma-Chronic Obstructive Pulmonary Disease Overlap Syndrome
+1159,C4040491,Bronchopneumonia caused by Haemophilus influenzae
+1160,C4076057,Urinary tract infection caused by Klebsiella
+1161,C4288754,Metastatic urothelial carcinoma (disorder)
+1162,C4302369,Primary thymic carcinoma
+1163,C4302554,Reactive oxygen species 1 positive non-small cell lung cancer
+1164,C4303663,Extensive stage primary small cell carcinoma of lung
+1165,C4304383,Influenza caused by pandemic influenza virus
+1166,C4305467,Well-differentiated neuroendocrine tumor of pancreas / Neuroendocrine tumor of pancreas
+1167,C4510691,Pneumonia caused by Chlamydia pneumoniae
+1168,C4543165,Acute myeloid leukemia with FMS-like tyrosine kinase-3 mutation
+1169,C4545381,Myeloid and/or lymphoid neoplasm associated with platelet derived growth factor receptor alpha rearrangement
+1170,C4551683,Chromaffin paraganglioma
+1171,C4552486,Chronic refractory cough
+1172,C4708088,"Germline BRCA-mutated, HER2-negative metastatic breast cancer"
+1173,C4750718,Cyclin-dependent kinase-like 5 deficiency
+1174,C5190725,Abnormal uterine bleeding due to uterine fibroid
+1175,C5191640,Obesity due to leptin receptor gene deficiency
+1176,C5192106,Solid neoplasm with neurotrophic receptor tyrosine kinase gene fusion
+1177,C5203670,COVID-19
+1178,C5244027,Pneumonia caused by SARS-CoV-2
+1179,C5394779,Malignant melanoma with BRAF V600E mutation
+1180,C5394780,Anaplastic lymphoma kinase fusion oncogene positive non-small cell lung cancer
