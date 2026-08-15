@@ -19,6 +19,7 @@ HGT-MQN/
 ├── load_data.py                   # Dataset loading and preprocessing
 ├── model.py                       # Model architecture
 ├── train_no_sim.py                # Ablation model without similarity information
+├── hyperparameters.md             # Dataset-specific optimal hyperparameters
 └── README.md
 ```
 
@@ -110,7 +111,7 @@ For reproducibility:
 
 * all benchmark experiments use 10-fold cross-validation;
 * the random seed is fixed to `42`;
-* dataset-specific optimal hyperparameters are reported above;
+* dataset-specific optimal hyperparameters are documented in `hyperparameters.md`;
 * model checkpoints and experimental outputs are stored in the output directory specified by `-sp`;
 * cold-start evaluation follows an entity-level split to prevent test-entity interaction information from entering the training graph.
 
