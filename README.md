@@ -3,7 +3,7 @@
 HGT-MQN integrates heterogeneous biomedical information and homogeneous similarity information through a memory-guided representation learning framework, enabling drug and disease representations to incorporate complementary biomedical context and transferable similarity patterns.
 The framework is shown in the figure below.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b5d29388-1dcc-4008-952b-5b812712c411" width="900">
+  <img src="framework.png" width="900">
 </p>
 
 ## Repository Structure.
